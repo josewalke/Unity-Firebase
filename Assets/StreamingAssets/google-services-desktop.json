@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "5309476291",
+    "project_id": "prueba-7f5f2",
+    "storage_bucket": "prueba-7f5f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5309476291:android:5dc07ea48d9923aa3e6176",
+        "android_client_info": {
+          "package_name": "com.company.UnityFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5309476291-prcot35ahc98i2nd242cjafvvlpg0oc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IKiZ34iPDIUrQGUJYB09IywgYUFMsmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5309476291-prcot35ahc98i2nd242cjafvvlpg0oc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5309476291-66vtk966h719siraldh91paqoqp4eohk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.UnityFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5309476291:android:919e3f369aa184ee3e6176",
+        "android_client_info": {
+          "package_name": "com.company.UnityFirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5309476291-prcot35ahc98i2nd242cjafvvlpg0oc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IKiZ34iPDIUrQGUJYB09IywgYUFMsmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5309476291-prcot35ahc98i2nd242cjafvvlpg0oc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5309476291-66vtk966h719siraldh91paqoqp4eohk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.UnityFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
